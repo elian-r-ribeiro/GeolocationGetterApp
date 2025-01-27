@@ -1,2 +1,2 @@
 # GeolocationGetterApp
-Inside the "android" folder, you can see the "release" folder, it contains a APK that you can install on your phone and test it for yourself.
+In "Releases" you can download the APK to install it on your device and test it by yourself.
