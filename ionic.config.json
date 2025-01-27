@@ -1,0 +1,7 @@
+{
+  "name": "geolocationApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
